@@ -18,6 +18,10 @@ Image of a Malignant tumor
 
 ![image](https://user-images.githubusercontent.com/66006481/180224295-67f3b0f4-feb2-421c-b169-fc744667ba2c.png)
 
+the five algorithms were implemented, CNN, ANN, SVM, Naive Bayes, Random Forest Classifier and we have generated the score for each Machine Learning Algorithm and the accuracy score of neural networks, and we got the accuracy as follows : for **CNN 53%, for ANN 67%, for SVM 84%, for Naive bayes 57% and for Random Forest its 84%.**
+
+### Random Forest and SVM generates the accuracy of 84% which is the highest of all models used.
+
 ![image](https://user-images.githubusercontent.com/66006481/180224688-c4ea8046-c802-4b1d-b5b0-15d70821f026.png)
 
 ![image](https://user-images.githubusercontent.com/66006481/180224924-9f07606f-459f-4321-8655-aef5220544c6.png)
